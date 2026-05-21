@@ -1,5 +1,5 @@
 <div align="center">
-# 🚀 LeetCode Solutions in C++
+<h1>🚀 LeetCode Solutions in C++</h1>
 
 <h1>👩‍💻 Purvi Jain</h1>
 
