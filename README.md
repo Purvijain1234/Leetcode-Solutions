@@ -1,22 +1,52 @@
-# LeetCode Solutions in C++ 🚀
+<div align="center">
+# 🚀 LeetCode Solutions in C++
 
-Hi, I'm **Purvi Jain** 👋  
-This repository contains my LeetCode solutions in **C++** along with problem classifications, complexities, and solution links.
+<h1>👩‍💻 Purvi Jain</h1>
 
-The main purpose of this repository is to:
-- Practice Data Structures & Algorithms
-- Improve problem-solving skills
-- Prepare for coding interviews
-- Track daily coding consistency
-- Build a strong GitHub profile
+<p>
+A structured repository of my <b>LeetCode</b> solutions in <b>C++</b> focused on mastering <b>Data Structures & Algorithms</b>, improving problem-solving skills, and preparing for coding interviews.
+</p>
+
+<p>
+Daily coding journey 🚀 | Clean code ✨ | Interview preparation 💡
+</p>
+
+<br>
+
+<a href="https://github.com/Purvijain1234">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/purvi-jain-315683326">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/PurviCodes">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+
+</div>
 
 ---
 
-# 👩‍💻 Connect With Me
+# 📌 About This Repository
 
-- GitHub: https://github.com/Purvijain1234
-- LinkedIn: https://www.linkedin.com/in/purvi-jain-315683326
-- LeetCode: https://leetcode.com/u/PurviCodes
+This repository contains my categorized LeetCode solutions written in **C++**.
+The main goal of this repository is to:
+
+- Practice Data Structures & Algorithms
+- Improve coding and logical thinking
+- Prepare for technical interviews
+- Maintain coding consistency
+- Build a strong developer profile
 
 ---
 
@@ -142,6 +172,6 @@ leetcode-solutions-cpp/
 
 ---
 
+<div align="center">
 # ⭐ If you find this repository useful, feel free to star it!
-
-```
+</div>
