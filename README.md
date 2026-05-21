@@ -1,7 +1,7 @@
 <div align="center">
 <h1>🚀 LeetCode Solutions in C++</h1>
 
-<h1>👩‍💻 Purvi Jain</h1>
+<h1>By Purvi Jain</h1>
 
 <p>
 A structured repository of my <b>LeetCode</b> solutions in <b>C++</b> focused on mastering <b>Data Structures & Algorithms</b>, improving problem-solving skills, and preparing for coding interviews.
