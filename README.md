@@ -33,9 +33,9 @@ leetcode-solutions-cpp/
 │
 ├── README.md
 │
-├── 0001-0100/
-├── 0101-0200/
-├── 0201-0300/
+├── 0001-1000/
+├── 1001-2000/
+├── 2001-3000/
 ├── ...
 ````
 ---
@@ -55,9 +55,9 @@ leetcode-solutions-cpp/
 
 | #  | Problem                                                                                                   | Solution                                                        | Difficulty | Time  | Space |
 | -- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- | ----- | ----- |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [C++](./0001-0100/0001_Two_Sum.cpp)                             | Easy       | O(n²) | O(1)  |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-0100/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n)  | O(1)  |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-0100/0027_Remove_Element.cpp)                      | Easy       | O(n)  | O(1)  |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [C++](./0001-1000/0001_Two_Sum.cpp)                             | Easy       | O(n²) | O(1)  |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n)  | O(1)  |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-1000/0027_Remove_Element.cpp)                      | Easy       | O(n)  | O(1)  |
 
 ---
 
@@ -65,8 +65,8 @@ leetcode-solutions-cpp/
 
 | #  | Problem                                                                       | Solution                                          | Difficulty | Time     | Space |
 | -- | ----------------------------------------------------------------------------- | ------------------------------------------------- | ---------- | -------- | ----- |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)           | [C++](./0001-0100/0013_Roman_to_Integer.cpp)      | Easy       | O(n)     | O(1)  |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./0001-0100/0014_Longest_Common_Prefix.cpp) | Easy       | O(n × m) | O(1)  |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)           | [C++](./0001-1000/0013_Roman_to_Integer.cpp)      | Easy       | O(n)     | O(1)  |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./0001-1000/0014_Longest_Common_Prefix.cpp) | Easy       | O(n × m) | O(1)  |
 
 ---
 
@@ -74,7 +74,7 @@ leetcode-solutions-cpp/
 
 | # | Problem                                           | Solution                            | Difficulty | Time  | Space |
 | - | ------------------------------------------------- | ----------------------------------- | ---------- | ----- | ----- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./0001-0100/0001_Two_Sum.cpp) | Easy       | O(n²) | O(1)  |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./0001-1000/0001_Two_Sum.cpp) | Easy       | O(n²) | O(1)  |
 
 ---
 
@@ -82,10 +82,10 @@ leetcode-solutions-cpp/
 
 | #  | Problem                                                               | Solution                                      | Difficulty | Time     | Space |
 | -- | --------------------------------------------------------------------- | --------------------------------------------- | ---------- | -------- | ----- |
-| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)     | [C++](./0001-0100/0007_Reverse_Integer.cpp)   | Medium     | O(log n) | O(1)  |
-| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./0001-0100/0009_Palindrome_Number.cpp) | Easy       | O(log n) | O(1)  |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)   | [C++](./0001-0100/0013_Roman_to_Integer.cpp)  | Easy       | O(n)     | O(1)  |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                       | [C++](./0001-0100/0069_Sqrt_x.cpp)            | Easy       | O(log n) | O(1)  |
+| 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)     | [C++](./0001-1000/0007_Reverse_Integer.cpp)   | Medium     | O(log n) | O(1)  |
+| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./0001-1000/0009_Palindrome_Number.cpp) | Easy       | O(log n) | O(1)  |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)   | [C++](./0001-1000/0013_Roman_to_Integer.cpp)  | Easy       | O(n)     | O(1)  |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                       | [C++](./0001-1000/0069_Sqrt_x.cpp)            | Easy       | O(log n) | O(1)  |
 
 ---
 
@@ -93,7 +93,7 @@ leetcode-solutions-cpp/
 
 | #  | Problem                                         | Solution                           | Difficulty | Time     | Space |
 | -- | ----------------------------------------------- | ---------------------------------- | ---------- | -------- | ----- |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./0001-0100/0069_Sqrt_x.cpp) | Easy       | O(log n) | O(1)  |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./0001-1000/0069_Sqrt_x.cpp) | Easy       | O(log n) | O(1)  |
 
 ---
 
