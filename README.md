@@ -50,11 +50,6 @@ The main goal of this repository is to:
 
 ---
 
-# 🛠️ Language Used
-
-- C++
-
----
 
 # 📂 Repository Structure
 
