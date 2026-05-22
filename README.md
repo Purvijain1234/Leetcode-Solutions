@@ -25,7 +25,7 @@ Daily coding journey 🚀 | Clean code ✨ | Interview preparation 💡
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
@@ -68,6 +68,7 @@ The main goal of this repository is to:
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [C++](./0001-1000/0001_Two_Sum.cpp)                             | Easy       | O(n²) | O(1)  |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n)  | O(1)  |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-1000/0027_Remove_Element.cpp)                      | Easy       | O(n)  | O(1)  |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./0001-1000/0033_Search_in_Rotated_Sorted_Array.cpp) | Medium | O(log n) | O(1) |
 
 ---
 
@@ -103,6 +104,7 @@ The main goal of this repository is to:
 
 | #  | Problem                                         | Solution                           | Difficulty | Time     | Space |
 | -- | ----------------------------------------------- | ---------------------------------- | ---------- | -------- | ----- |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./0001-1000/0033_Search_in_Rotated_Sorted_Array.cpp) | Medium | O(log n) | O(1) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./0001-1000/0069_Sqrt_x.cpp) | Easy       | O(log n) | O(1)  |
 
 ---
@@ -129,7 +131,7 @@ The main goal of this repository is to:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 8      |
-| Medium     | 1      |
+| Medium     | 2      |
 | Hard       | 0      |
 
 ---
