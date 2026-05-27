@@ -83,6 +83,7 @@ The main goal of this repository is to:
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)           | [C++](./0001-1000/0013_Roman_to_Integer.cpp)      | Easy       | O(n)     | O(1)  |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./0001-1000/0014_Longest_Common_Prefix.cpp) | Easy       | O(n × m) | O(1)  |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [C++](./3001-4000/3120_Count_the_Number_of_Special_Characters_I.cpp) | Easy | O(n) | O(1) |
+| 3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [C++](./3001-4000/3121_Count_the_Number_of_Special_Characters_II.cpp) | Medium | O(n) | O(1) |
 
 ---
 
@@ -147,7 +148,7 @@ The main goal of this repository is to:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 12      |
-| Medium     | 2      |
+| Medium     | 3      |
 | Hard       | 0      |
 
 ---
