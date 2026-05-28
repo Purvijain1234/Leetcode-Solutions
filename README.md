@@ -68,6 +68,7 @@ The main goal of this repository is to:
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [C++](./0001-1000/0001_Two_Sum.cpp)                             | Easy       | O(n²) | O(1)  |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp) | Easy       | O(n)  | O(1)  |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [C++](./0001-1000/0027_Remove_Element.cpp)                      | Easy       | O(n)  | O(1)  |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./0001-1000/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) | Easy | O((n - m + 1) × m) | O(1) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./0001-1000/0033_Search_in_Rotated_Sorted_Array.cpp) | Medium | O(log n) | O(1) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp) | Easy | O(m × n) | O(r × c) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./0001-1000/0704_Binary_Search.cpp) | Easy | O(log n) | O(1) |
@@ -147,7 +148,7 @@ The main goal of this repository is to:
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 12      |
+| Easy       | 13      |
 | Medium     | 3      |
 | Hard       | 0      |
 
