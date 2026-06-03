@@ -78,6 +78,7 @@ The main goal of this repository is to:
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [C++](./2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp) | Easy | O(n log n) | O(1) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [C++](./3001-4000/3300_Minimum_Element_After_Replacement_With_Digit_Sum.cpp) | Easy | O(n × d) | O(1) |
 | 3633 | [Earliest Finish Time for Land and Water Rides](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides/) | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp) | Easy | O(n × m) | O(1) |
+| 3633 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides/) | [C++](./3001-4000/3633_Earliest_Finish_Time_for_Land_and_Water_Rides.cpp) | Medium | O((n+m) log(n+m)) | O(n+m) |
 
 ---
 
@@ -156,7 +157,7 @@ The main goal of this repository is to:
 | Difficulty | Solved |
 | ---------- | ------ |
 | Easy       | 16     |
-| Medium     | 4      |
+| Medium     | 5      |
 | Hard       | 1      |
 
 ---
