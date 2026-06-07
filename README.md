@@ -147,6 +147,15 @@ The main goal of this repository is to:
 
 ---
 
+# 🌲 Binary Tree
+
+| # | Problem | Solution | Difficulty | Time | Space |
+|---|---|---|---|---|---|
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [C++](./2001-3000/2196_Create_Binary_Tree_From_Descriptions.cpp) | Medium | O(n) | O(n) |
+
+
+---
+
 # 🟦 Matrix
 
 | # | Problem | Solution | Difficulty | Time | Space |
