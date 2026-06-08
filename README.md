@@ -40,7 +40,7 @@ This repository documents my daily problem-solving journey, interview preparatio
 
 ---
 
-# 📌 About This Repository
+### 📌 About This Repository
 
 This repository contains my solutions to LeetCode Daily Challenges written in **C++**.
 
@@ -52,20 +52,17 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 # 📊 Progress Tracker
 
+<div align='center'>
+
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 16     |
-| 🟡 Medium  | 8      |
+| 🟡 Medium  | 9      |
 | 🔴 Hard    | 0      |
 
 **Total Problems Solved: 24**
 
----
-
-# 📚 Problem Categories
-<p align=center>
-<img width="1231" height="516" alt="Image" src="https://github.com/user-attachments/assets/2e265d69-394e-4d25-9cef-9feeaeab2fe6" />
-</p>
+</div>
 
 ---
 
