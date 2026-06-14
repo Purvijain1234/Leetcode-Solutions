@@ -57,10 +57,10 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | Difficulty | Solved |
 | ---------- | ------ |
 | 🟢 Easy    | 17     |
-| 🟡 Medium  | 11     |
+| 🟡 Medium  | 12     |
 | 🔴 Hard    | 2      |
 
-**Total Problems Solved: 30**
+**Total Problems Solved: 31**
 
 </div>
 
@@ -87,6 +87,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 704         | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                           | Binary Search          | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0704_Binary_Search.cpp)                                      |
 | 1752        | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                             | Array                  | Easy       | O(n)             | O(1)        | [C++](./1001-2000/1752_Check_if_Array_Is_Sorted_and_Rotated.cpp)               |
 | 2126        | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)                                                             | Array, Greedy, Sorting | Medium     | O(n log n)       | O(1)        | [C++](./2001-3000/2126_Destroying_Asteroids.cpp)                               |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | Linked List, Two Pointers | Medium | O(n) | O(1) | [C++](./2001-3000/2130_Maximum_Twin_Sum_of_a_Linked_List.cpp) |
 | 2144        | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/)             | Greedy, Sorting        | Easy       | O(n log n)       | O(1)        | [C++](./2001-3000/2144_Minimum_Cost_of_Buying_Candies_With_Discount.cpp)       |
 | 2161        | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)                     | Array, Two Pointers    | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2161_Partition_Array_According_to_Given_Pivot.cpp)           |
 | 2196        | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)                             | Binary Tree, Hashing   | Medium     | O(n)             | O(n)        | [C++](./2001-3000/2196_Create_Binary_Tree_From_Descriptions.cpp)               |
